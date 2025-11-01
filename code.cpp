@@ -12,7 +12,7 @@ double tinhTong(double a, double b) {
 // Người 2: Hàm tính hiệu
 double tinhHieu(double a, double b) {
     // TODO: Viết code tính hiệu
-    return 0; // placeholder
+    return a-b; // placeholder
 }
 
 // Người 3: Hàm tính tích
