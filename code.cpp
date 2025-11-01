@@ -6,7 +6,7 @@ using namespace std;
 // Người 1: Hàm tính tổng
 double tinhTong(double a, double b) {
     // TODO: Viết code tính tổng
-    return 0; // placeholder
+    return a+b;
 }
 
 // Người 2: Hàm tính hiệu
