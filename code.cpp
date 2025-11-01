@@ -12,19 +12,19 @@ double tinhTong(double a, double b) {
 // Người 2: Hàm tính hiệu
 double tinhHieu(double a, double b) {
     // TODO: Viết code tính hiệu
-    return 0; // placeholder
+    return a-b; // placeholder
 }
 
 // Người 3: Hàm tính tích
 double tinhTich(double a, double b) {
     // TODO: Viết code tính tích
-    return 0; // placeholder
+    return a*b; // placeholder
 }
 
 // Người 3: Hàm tính thương
 double tinhThuong(double a, double b) {
     // TODO: Viết code tính thương, xử lý chia cho 0
-    return 0; // placeholder
+    return a/b; // placeholder
 }
 
 // ==================== Main ====================
